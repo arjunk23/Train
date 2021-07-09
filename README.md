@@ -103,7 +103,7 @@ simpler model for accurate results.
 
 ## Dataset
 
-The Mini Speech Commands Dataset. ([Download Link]([Uploading mini_speech_commands.zip…])) consists of over 8,000 WAVE audio
+The Mini Speech Commands Dataset. [Download Link]([Uploading mini_speech_commands.zip…]) consists of over 8,000 WAVE audio
 files of people saying 8 different words. This data was collected by
 Google and released under a CC BY license. You can help improve it by
 contributing five minutes of your own voice. The archive is over 2GB, so this
