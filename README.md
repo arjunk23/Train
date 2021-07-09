@@ -1,7 +1,7 @@
 
 # Mini Speech Training with LSTM
 
-This example shows how to train a 500 kB model that can recognize any of 8 keywords chosen by the user,
+This example shows how to train a 150 kB model that can recognize any of 8 keywords chosen by the user,
 classify all other commands as an "unknown" keyword, and predict the chosen keywords from speech data.
 
 You can retrain it to recognize any combination of words (2 or more) from this
